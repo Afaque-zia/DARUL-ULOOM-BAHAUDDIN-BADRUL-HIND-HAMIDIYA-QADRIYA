@@ -8749,3 +8749,9 @@ ul.children .comment-detail>p {
 .event-booking-form button span {
   margin-top: 0;
 }
+
+@media only screen and (max-width:768px) {
+  .big-h {
+    font-size: 2rem !important;
+  }
+}
